@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MishIvan
-- 👀 I’m interested in developing application for Android by means of Java
-- 🌱 I’m currently learning developing for Android by means of Java
+- 👀 I’m interested in developing application for Android by means of Java and applications for linux by means C++ 
+- 🌱 I’m currently learning developing for Android by means of Java and applications for linux by means C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
